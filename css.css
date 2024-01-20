@@ -1,0 +1,153 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+    width: 100%;
+   
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 8px 15px;
+    margin: 0 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 70%;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.table {
+    padding: 100px;
+    height: 200px;
+    width: 100px;
+    align-content: center;
+    
+}
+.table a{
+  font-size: 50px;
+  padding-left: 250px;
+  align-self: center;
+  
+  
+}
+.menu-table p{
+  font-size: 100px;
+}
+table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+      height: 50px;
+    }
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: center;
+      padding: 8px;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    img {
+      max-width: 100px;
+      max-height: 100px;
+      border-radius: 5px;
+    }
+    
+    .addToCartBtn {
+      background-color: #4CAF50;
+      color: white;
+      padding: 8px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    #about{
+      height:50%;
+    }
+    
+    #members{
+      height:50%;
+    }
+    
+    #contact{
+      height:50%;
+    }
+      .instagram{
+      background-color: pink;
+      color: white;
+      text-decoration: none;
+      border: none;
+      border-radius: 5px;
+      padding: 10px 20px;
+      margin: 0 10px;
+      cursor: pointer;
+    }
+    .facebook{
+      background-color: blue;
+      color: white;
+      text-decoration: none;
+      border: none;
+      border-radius: 5px;
+      padding: 10px 20px;
+      margin: 0 10px;
+      cursor: pointer;
+    }
+    
+    
+    #home {
+      text-align: center;
+      background: url('Menu/interior.jpg') no-repeat center center fixed;
+      background-size: cover;
+      padding: 100px; 
+      box-sizing: border-box;
+      height: 70%;
+      margin: 20px;
+    }
+ 
+    #home h2{
+      color: white;
+      font-size: 250%;
+      font-family: Arial;
+    }
+    
+    #home p{
+      color: white;
+      font-size: 150%;
+     
+    }
+    #about{
+      margin-top: 250px;
+      margin-buttom: 500px;
+      
+    }
+    
+  
